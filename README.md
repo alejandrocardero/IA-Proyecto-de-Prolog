@@ -18,6 +18,6 @@ Archivo de Documentación: `Documentacion_IA1.ipynb.ipynb`
 
 | Requisito | Estado | Evidencia |
 | 3 Ramas Mínimas | ✅ | `main`, `rama-prolog`, `rama-docs` |
-| Múltiples Commits | ✅ | [Cantidad de commits 4] |
+| Múltiples Commits | ✅ | [Cantidad de commits 12] |
 | Prolog Avanzado | ✅ | `parentesco_avanzado.pl` |
 | Uso de Colab | ✅ | `rama-docs` |
